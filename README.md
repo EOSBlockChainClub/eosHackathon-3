@@ -16,6 +16,6 @@
     - Facial recognition system uses powerful open source open CV library on python. 
     - Test2 is a tool to store a person photo in the library. 
     - Face_Recognizer is the main class that can take number of users and train a AI model to classify a given picture among users. 
-    - In future it is planned to implement transfer learning algorithm from Face Net model because it is going to more accurate algorithm. 
+    - In future it is planned to implement facial recognition system using transfer learning algorithm from Face Net model because it is going to more accurate algorithm. 
     - Also we plan to implement PyGaze open source library to track a eye movements of a user to prevent fraud with facial recognition system
     - Test5 is implemented to actually recognize the user’s user name
