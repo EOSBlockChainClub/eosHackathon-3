@@ -165,7 +165,7 @@ class Index extends Component {
         <AppBar position="static" color="default">
           <Toolbar>
             <Typography variant="title" color="inherit">
-            <font color="red">Secure Data</font>
+            <font color="red">Token Data</font>
             </Typography>
           </Toolbar>
         </AppBar>
